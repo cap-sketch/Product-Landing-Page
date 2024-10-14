@@ -54,3 +54,4 @@ document.querySelector('#form').addEventListener('submit', (e) => {
         behavior: 'smooth',
     });
 });
+
